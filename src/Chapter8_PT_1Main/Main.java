@@ -1,4 +1,4 @@
-package Chapter7_PT_1Main;
+package Chapter8_PT_1Main;
 
 public class Main {
     public static void main(String[] args) {
